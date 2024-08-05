@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🧑🏻‍🎓 Pre-Final Year Undergraduate @ IIT(BHU) Varanasi<br>🔭 I’m currently working on improving my Dev and Problem Solving Skills<br>👯 I’m looking to contribute to startups in Full Stack Web Development Field<br>🌱 I’m currently learning React Native , Django and Firebase.<br>💬 Ask me about DSA, CP and MERN Stack , Lol it will help me in my interviews :-)<br>⚡ Fun fact - I’m a Basketball Player 🏀 in the evening and a Lazy Load considering my Life Choices in the morning🤡
+🧑🏻‍🎓 Final Year Undergraduate @ IIT(BHU) Varanasi<br>🔭 I’m currently working on improving my Dev and Problem Solving Skills<br>👯 I’m looking to contribute to startups in Full Stack Web Development Field<br>🌱 I’m currently learning React Native , Django and Firebase.<br>💬 Ask me about DSA, CP and MERN Stack , Lol it will help me in my interviews :-)<br>⚡ Fun fact - I’m a Basketball Player 🏀 in the evening and a Lazy Load considering my Life Choices in the morning🤡
 
 
 ## 🌐 Socials:
